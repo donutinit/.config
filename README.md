@@ -254,4 +254,6 @@ Si ese path no existe, localiza el binario:
 dpkg -L libsecret-1-0 | grep git-credential
 dpkg -L git | grep credential
 ```
+#### pd:
+La neta soy relativamente nuevo en linux, seguramente hay errores en la documentación y configuraciones redundantes.
 
